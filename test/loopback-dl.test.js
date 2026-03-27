@@ -8,6 +8,7 @@
 const should = require('./init.js');
 const assert = require('assert');
 const async = require('async');
+const path = require('path');
 
 const jdb = require('../');
 const ModelBuilder = jdb.ModelBuilder;
@@ -972,6 +973,16 @@ describe('DataSource connector types', function() {
 });
 
 describe('DataSource._resolveConnector', function() {
+  let cwd;
+
+  beforeEach(function() {
+    cwd = process.cwd();
+  });
+
+  afterEach(function() {
+    process.chdir(cwd);
+  });
+
   // Mocked require
   const loader = function(name) {
     if (name.indexOf('./connectors/') !== -1) {
@@ -1032,6 +1043,22 @@ describe('DataSource._resolveConnector', function() {
     const connector = DataSource._resolveConnector('loopback-xyz');
     assert(!connector.connector);
     assert(connector.error.indexOf('loopback-connector-loopback-xyz') !== -1);
+  });
+
+  it('resolves connector from the application node_modules', function() {
+    process.chdir(path.join(__dirname, 'fixtures', 'app-with-mongodb-connector'));
+
+    const connector = DataSource._resolveConnector('mongodb');
+    assert(connector.connector);
+    assert.equal(connector.connector.name, 'loopback-connector-mongodb');
+  });
+
+  it('resolves scoped connector packages declared by the application', function() {
+    process.chdir(path.join(__dirname, 'fixtures', 'app-with-scoped-mongodb-connector'));
+
+    const connector = DataSource._resolveConnector('mongodb');
+    assert(connector.connector);
+    assert.equal(connector.connector.name, '@xompass/loopback-connector-mongodb');
   });
 });
 

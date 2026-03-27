@@ -1,0 +1,7 @@
+{
+  "name": "app-with-scoped-mongodb-connector",
+  "version": "1.0.0",
+  "dependencies": {
+    "@xompass/loopback-connector-mongodb": "1.0.0"
+  }
+}

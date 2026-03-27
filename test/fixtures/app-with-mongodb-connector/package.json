@@ -1,0 +1,7 @@
+{
+  "name": "app-with-mongodb-connector",
+  "version": "1.0.0",
+  "dependencies": {
+    "loopback-connector-mongodb": "1.0.0"
+  }
+}
