@@ -1,6 +1,6 @@
 {
   "name": "loopback-datasource-juggler",
-  "version": "4.26.0",
+  "version": "6.0.4",
   "publishConfig": {
     "export-tests": true
   },
@@ -14,13 +14,13 @@
     "Juggler",
     "ORM"
   ],
-  "author": "IBM Corp.",
+  "author": "IBM Corp. and LoopBack contributors",
   "engines": {
-    "node": ">=10"
+    "node": ">=20"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-datasource-juggler"
+    "url": "https://github.com/loopbackio/loopback-datasource-juggler"
   },
   "main": "index.js",
   "types": "index.d.ts",
@@ -29,49 +29,42 @@
   },
   "scripts": {
     "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "build": "npm run build-ts-types",
     "build-ts-types": "tsc -p tsconfig.json --outDir dist",
+    "pretest": "npm run build",
     "test": "nyc mocha",
-    "posttest": "npm run tsc && npm run lint"
+    "posttest": "npm run lint"
   },
   "devDependencies": {
-    "@commitlint/cli": "^13.1.0",
-    "@commitlint/config-conventional": "^13.1.0",
-    "@types/node": "^10.17.60",
+    "@commitlint/cli": "^20.5.0",
+    "@commitlint/config-conventional": "^20.5.0",
+    "@types/node": "^24.10.12",
     "async-iterators": "^0.2.2",
-    "bson": "^4.0.1",
-    "eslint": "^7.32.0",
+    "bson": "^4.7.2",
+    "eslint": "^8.57.1",
     "eslint-config-loopback": "^13.1.0",
-    "eslint-plugin-mocha": "^9.0.0",
+    "eslint-plugin-mocha": "^10.5.0",
     "loopback-connector-throwing": "file:./test/fixtures/loopback-connector-throwing",
-    "mocha": "^8.4.0",
-    "nyc": "^15.1.0",
+    "mocha": "^11.7.5",
+    "nyc": "^18.0.0",
     "should": "^13.2.3",
-    "typescript": "^4.0.3"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "async": "^3.1.0",
-    "change-case": "^4.1.1",
-    "debug": "^4.1.0",
+    "async": "^3.2.6",
+    "change-case": "^4.1.2",
+    "debug": "^4.4.3",
     "depd": "^2.0.0",
-    "inflection": "^1.6.0",
-    "lodash": "^4.17.11",
-    "loopback-connector": "^5.0.0",
-    "minimatch": "^3.0.3",
-    "nanoid": "^3.1.20",
-    "qs": "^6.5.0",
-    "strong-globalize": "^6.0.5",
-    "traverse": "^0.6.6",
-    "uuid": "^8.3.1"
+    "inflection": "^3.0.2",
+    "lodash": "^4.17.23",
+    "loopback-connector": "^7.0.4",
+    "minimatch": "^10.2.4",
+    "nanoid": "^3.3.11",
+    "neotraverse": "^0.6.18",
+    "qs": "^6.15.0",
+    "strong-globalize": "^6.0.6",
+    "uuid": "^13.0.0"
   },
-  "license": "MIT",
-  "ci": {
-    "downstreamIgnoreList": [
-      "loopback-connector-db2z",
-      "loopback-connector-ibmi",
-      "loopback-connector-informix",
-      "loopback-connector-mqlight",
-      "loopback-connector-kv-extreme-scale"
-    ]
-  }
+  "license": "MIT"
 }

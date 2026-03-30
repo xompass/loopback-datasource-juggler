@@ -1,3 +1,1010 @@
+2026-03-09, Version 6.0.4
+=========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency nyc to v18 (renovate[bot])
+
+ * chore: update dependency node to v22.22.1 (renovate[bot])
+
+ * chore: update actions/setup-node action to v6.3.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^20.4.3 (renovate[bot])
+
+ * chore: update dependency minimatch to ^10.2.4 (renovate[bot])
+
+ * chore: update dependency minimatch to v10.2.3 [security] (renovate[bot])
+
+ * chore: update dependency minimatch to ^10.2.2 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^20.4.2 (renovate[bot])
+
+ * chore: update dependency minimatch to ^10.2.1 (renovate[bot])
+
+ * chore: update dependency qs to ^6.15.0 (renovate[bot])
+
+ * chore: update dependency minimatch to ^10.2.0 (renovate[bot])
+
+ * chore: update dependency qs to ^6.14.2 (renovate[bot])
+
+
+2026-02-09, Version 6.0.3
+=========================
+
+ * chore: update dependency typescript to ^5.9.3 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^7.0.3 (renovate[bot])
+
+ * chore: update dependency minimatch to ^10.1.2 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^20.4.1 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^20.4.0 (renovate[bot])
+
+ * chore: update actions/checkout action to v6.0.2 (renovate[bot])
+
+ * chore: update dependency lodash to ^4.17.23 (renovate[bot])
+
+ * chore: update dependency lodash to v4.17.23 [security] (renovate[bot])
+
+ * chore: update actions/setup-node action to v6.2.0 (renovate[bot])
+
+ * chore: update dependency node to v22.22.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^7.0.2 (renovate[bot])
+
+
+2026-01-12, Version 6.0.2
+=========================
+
+ * chore: update commitlint monorepo to ^20.3.1 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update tests (dhmlau)
+
+ * chore: update commitlint monorepo to ^20.3.0 (renovate[bot])
+
+ * chore: update dependency qs to ^6.14.1 (renovate[bot])
+
+
+2025-12-08, Version 6.0.1
+=========================
+
+ * chore: update dependency loopback-connector to ^7.0.1 (renovate[bot])
+
+ * chore: update dependency uuid to v13 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^20.2.0 (renovate[bot])
+
+ * chore: update actions/setup-node action to v6.1.0 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update actions/checkout action to v6.0.1 (renovate[bot])
+
+ * chore: update actions/checkout action to v6 (renovate[bot])
+
+ * chore: update actions/checkout action to v5.0.1 (renovate[bot])
+
+
+2025-11-11, Version 6.0.0
+=========================
+
+ * chore: update dependency mocha to ^11.7.5 (renovate[bot])
+
+ * chore: update dependency node to v22.21.1 (renovate[bot])
+
+ * chore: update dependency loopback-connector to v7 (renovate[bot])
+
+ * chore: drop Node.js 18 support (dhmlau)
+
+ * chore: update dependency minimatch to ^10.1.1 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+
+2025-10-14, Version 5.2.2
+=========================
+
+ * chore: update dependency loopback-connector to ^6.2.12 (renovate[bot])
+
+ * chore: update actions/setup-node action to v6 (renovate[bot])
+
+ * chore: update github/codeql-action action to v4 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.7.4 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^20.1.0 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.7.3 (renovate[bot])
+
+ * chore: update commitlint monorepo to v20 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency debug to ^4.4.3 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.2.11 (renovate[bot])
+
+
+2025-09-08, Version 5.2.1
+=========================
+
+ * fix: revert to debug@4.4.1 (dhmlau)
+
+
+2025-09-08, Version 5.2.0
+=========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency debug to ^4.4.2 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.2.8 (renovate[bot])
+
+ * chore: update actions/setup-node action to v5 (renovate[bot])
+
+ * chore: update dependency node to v20.19.5 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.7.2 (renovate[bot])
+
+ * feat: add enum values to db specific configs (Muhammad Aaqil)
+
+ * chore: update actions/checkout action to v5 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.2.7 (renovate[bot])
+
+
+2025-08-11, Version 5.1.11
+==========================
+
+ * chore: update actions/checkout action to v4.3.0 (renovate[bot])
+
+ * chore: update dependency node to v20.19.4 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+
+2025-07-14, Version 5.1.10
+==========================
+
+ * chore: update dependency loopback-connector to ^6.2.6 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update README (dhmlau)
+
+ * fix: unit test to support dynamic id key (_id vs id) in patient filter (AlexisTd1)
+
+ * chore: update dependency mocha to ^11.7.1 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.7.0 (renovate[bot])
+
+ * chore: update dependency minimatch to ^10.0.3 (renovate[bot])
+
+
+2025-06-09, Version 5.1.9
+=========================
+
+ * chore: update dependency loopback-connector to ^6.2.5 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.6.0 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency mocha to ^11.5.0 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.4.0 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.3.0 (renovate[bot])
+
+ * chore: update dependency debug to ^4.4.1 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.2.4 (renovate[bot])
+
+
+2025-05-12, Version 5.1.8
+=========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.8.1 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.2.2 (renovate[bot])
+
+
+2025-04-14, Version 5.1.7
+=========================
+
+ * chore: update dependency loopback-connector to ^6.2.3 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update actions/setup-node action to v4.4.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.8.3 (renovate[bot])
+
+ * chore: update dependency nanoid to ^3.3.11 (renovate[bot])
+
+
+2025-03-17, Version 5.1.6
+=========================
+
+ * chore: update dependency loopback-connector to ^6.2.2 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update actions/setup-node action to v4.3.0 (renovate[bot])
+
+ * chore: update dependency nanoid to ^3.3.10 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.8.0 (renovate[bot])
+
+ * chore: update dependency nanoid to ^3.3.9 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.8.2 (renovate[bot])
+
+ * fix: stop using _extends (Samuel Hughes)
+
+ * chore: update dependency uuid to ^11.1.0 (renovate[bot])
+
+
+2025-02-11, Version 5.1.5
+=========================
+
+ * chore: update dependency loopback-connector to ^6.2.1 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.7.1 (renovate[bot])
+
+ * chore: update actions/setup-node action to v4.2.0 (renovate[bot])
+
+ * chore: update dependency mocha to ^11.1.0 (renovate[bot])
+
+ * chore: update dependency qs to ^6.14.0 (renovate[bot])
+
+
+2025-01-13, Version 5.1.4
+=========================
+
+ * chore: update dependency loopback-connector to ^6.2.0 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency uuid to ^11.0.5 (renovate[bot])
+
+ * chore: update dependency inflection to ^3.0.2 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.7.3 (renovate[bot])
+
+ * chore: update dependency uuid to ^11.0.4 (renovate[bot])
+
+ * chore: update dependency inflection to ^3.0.1 (renovate[bot])
+
+ * docs: update readme (dhmlau)
+
+ * chore: update dependency @commitlint/cli to ^19.6.1 (renovate[bot])
+
+ * chore: update dependency debug to ^4.4.0 (renovate[bot])
+
+
+2024-12-05, Version 5.1.3
+=========================
+
+ * fix: fix discovering relations (Thomas Miliopoulos)
+
+ * chore: update dependency loopback-connector to ^6.1.12 (renovate[bot])
+
+ * chore: update dependency mocha to v11 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency uuid to v11 (renovate[bot])
+
+ * chore: update dependency nanoid to ^3.3.8 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.7.2 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.6.0 (renovate[bot])
+
+ * chore: update dependency qs to ^6.13.1 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.1.11 (renovate[bot])
+
+
+2024-11-11, Version 5.1.2
+=========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency mocha to ^10.8.2 (renovate[bot])
+
+ * chore: update dependency mocha to ^10.8.1 (renovate[bot])
+
+ * chore: update actions/setup-node action to v4.1.0 (renovate[bot])
+
+ * chore: update actions/checkout action to v4.2.2 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.1.10 (renovate[bot])
+
+
+2024-10-10, Version 5.1.1
+=========================
+
+ * chore: update dependency typescript to ^5.6.3 (renovate[bot])
+
+ * chore: update actions/checkout action to v4.2.1 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update actions/checkout action to v4.2.0 (renovate[bot])
+
+ * chore: update actions/setup-node action to v4.0.4 (renovate[bot])
+
+ * chore: replace traverse with noetraverse (Léandre Daumont)
+
+ * chore: update dependency nyc to ^17.1.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.57.1 (renovate[bot])
+
+ * chore: update dependency traverse to ^0.6.10 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.5.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.6.2 (renovate[bot])
+
+
+2024-09-09, Version 5.1.0
+=========================
+
+ * chore: update dependency loopback-connector to ^6.1.9 (renovate[bot])
+
+ * feat: query to fetch unique columns (Muhammad Aaqil)
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency debug to ^4.3.7 (renovate[bot])
+
+ * chore: update dependency minimatch to v10 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.4.1 (renovate[bot])
+
+ * chore: update dependency async to ^3.2.6 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.1.8 (renovate[bot])
+
+
+2024-08-12, Version 5.0.12
+==========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency mocha to ^10.7.3 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^19.4.0 (renovate[bot])
+
+ * chore: update dependency qs to ^6.13.0 (renovate[bot])
+
+ * chore: update dependency eslint-plugin-mocha to ^10.5.0 (renovate[bot])
+
+ * chore: update dependency debug to ^4.3.6 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.5.4 (renovate[bot])
+
+ * chore: update dependency mocha to ^10.7.0 (renovate[bot])
+
+ * docs: update EOL date (dhmlau)
+
+ * chore: update actions/setup-node action to v4.0.3 (renovate[bot])
+
+ * chore: update dependency qs to ^6.12.3 (renovate[bot])
+
+
+2024-07-04, Version 5.0.11
+==========================
+
+ * chore: update dependency loopback-connector to ^6.1.7 (renovate[bot])
+
+ * chore: update dependency mocha to ^10.6.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.5.3 (renovate[bot])
+
+ * chore: update dependency qs to ^6.12.2 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency mocha to ^10.5.2 (renovate[bot])
+
+ * chore: update dependency minimatch to ^9.0.5 (renovate[bot])
+
+ * chore: update dependency mocha to ^10.5.1 (renovate[bot])
+
+ * chore: update dependency mocha to ^10.5.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.5.2 (renovate[bot])
+
+ * chore: update actions/checkout action to v4.1.7 (renovate[bot])
+
+ * chore: update dependency uuid to v10 (renovate[bot])
+
+ * chore: update dependency nyc to v17 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.1.6 (renovate[bot])
+
+
+2024-06-06, Version 5.0.10
+==========================
+
+ * chore: add Node.js 22 to CI (dhmlau)
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency debug to ^4.3.5 (renovate[bot])
+
+ * chore: update actions/checkout action to v4.1.6 (renovate[bot])
+
+
+2024-05-14, Version 5.0.9
+=========================
+
+ * chore: update dependency loopback-connector to ^6.1.5 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update actions/checkout action to v4.1.5 (renovate[bot])
+
+ * chore: update actions/checkout action to v4.1.4 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^19.3.0 (renovate[bot])
+
+ * chore: update actions/checkout action to v4.1.3 (renovate[bot])
+
+ * chore: update dependency eslint-plugin-mocha to ^10.4.3 (renovate[bot])
+
+ * chore: update dependency node to v17.9.1 (renovate[bot])
+
+ * chore: update dependency node to v16.20.2 (renovate[bot])
+
+ * chore: update dependency node to v14.21.3 (renovate[bot])
+
+ * chore: update dependency node to v12.22.12 (renovate[bot])
+
+ * chore: update dependency node to v10.24.1 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.2.2 (renovate[bot])
+
+ * chore: update dependency qs to ^6.12.1 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.4.5 (renovate[bot])
+
+ * chore: update dependency eslint-plugin-mocha to ^10.4.2 (renovate[bot])
+
+ * chore: update dependency traverse to ^0.6.9 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.4.4 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.1.4 (renovate[bot])
+
+
+2024-04-04, Version 5.0.8
+=========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency minimatch to ^9.0.4 (renovate[bot])
+
+ * fix: add error handling in case of unvailable cache server (Muhammad Aaqil)
+
+ * chore: update dependency mocha to ^10.4.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.4.3 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^19.2.1 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^19.2.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.1.0 (renovate[bot])
+
+ * chore: update dependency eslint-plugin-mocha to ^10.4.1 (renovate[bot])
+
+
+2024-03-07, Version 5.0.7
+=========================
+
+ * chore: update dependency eslint-plugin-mocha to ^10.4.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.1.3 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.4.2 (renovate[bot])
+
+ * chore: update dependency qs to ^6.12.0 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update commitlint monorepo to ^19.0.3 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^19.0.1 (renovate[bot])
+
+ * chore: update commitlint monorepo to v19 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.57.0 (renovate[bot])
+
+ * chore: update dependency eslint-plugin-mocha to ^10.3.0 (renovate[bot])
+
+ * chore: update dependency @commitlint/config-conventional to ^18.6.2 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^18.6.1 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.1.2 (renovate[bot])
+
+
+2024-02-12, Version 5.0.6
+=========================
+
+ * fix: return generated: false if the connector doesnot return it (Muhammad Aaqil)
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency mocha to ^10.3.0 (renovate[bot])
+
+ * chore: update actions/setup-node action to v4.0.2 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^18.6.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^18.5.0 (renovate[bot])
+
+ * chore: update dependency inflection to v3 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.1.1 (renovate[bot])
+
+
+2024-01-09, Version 5.0.5
+=========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update github/codeql-action action to v3 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^18.4.4 (renovate[bot])
+
+ * chore: update dependency traverse to ^0.6.8 (renovate[bot])
+
+ * chore: update actions/setup-node action to v4.0.1 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.56.0 (renovate[bot])
+
+
+2023-12-07, Version 5.0.4
+=========================
+
+ * chore: update dependency loopback-connector to ^6.1.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.3.3 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.55.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^18.4.3 (renovate[bot])
+
+ * chore: update dependency typescript to ^5.3.2 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.54.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^18.4.2 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.0.4 (renovate[bot])
+
+
+2023-11-13, Version 5.0.3
+=========================
+
+ * chore: update commitlint monorepo to v18 (renovate[bot])
+
+ * chore: update actions/setup-node action to v4 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency nanoid to ^3.3.7 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.53.0 (renovate[bot])
+
+ * chore: update dependency async to ^3.2.5 (renovate[bot])
+
+ * chore: update actions/setup-node action to v3.8.2 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.52.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.8.1 (renovate[bot])
+
+ * chore: update actions/checkout action to v4.1.1 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.0.3 (renovate[bot])
+
+
+2023-10-16, Version 5.0.2
+=========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.8.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.51.0 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^17.7.2 (renovate[bot])
+
+ * chore: update dependency eslint-plugin-mocha to ^10.2.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.50.0 (renovate[bot])
+
+ * chore: update actions/checkout action to v4.1.0 (renovate[bot])
+
+
+2023-09-13, Version 5.0.1
+=========================
+
+
+
+2023-09-12, Version 5.0.0
+=========================
+
+ * chore: drop Node.js 16 support BREAKING CHANGE: drop Node.js 16 support (dhmlau)
+
+ * chore: update dependency typescript to v5 (renovate[bot])
+
+ * chore: update actions/checkout action to v4 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.49.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^6.0.2 (renovate[bot])
+
+ * chore: update dependency uuid to ^9.0.1 (renovate[bot])
+
+ * fix(ci): fix GH actions versions (dhmlau)
+
+ * chore: update dependency minimatch to v9 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.48.0 (renovate[bot])
+
+ * chore: update dependency strong-globalize to ^6.0.6 (renovate[bot])
+
+ * chore: drop Node.js 14 and lower (dhmlau)
+
+
+2023-08-14, Version 4.28.9
+==========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.47.0 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^17.7.1 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.7.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.46.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.6.7 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.45.0 (renovate[bot])
+
+
+2023-07-11, Version 4.28.8
+==========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.44.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.3.3 (renovate[bot])
+
+
+2023-06-27, Version 4.28.7
+==========================
+
+ * fix: set nullable under jsonSchema in property to true in case of nullable property (Muhammad Aaqil)
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.6.6 (renovate[bot])
+
+ * fix: null value not persisted for properties of type JSON, Any, or Object (Siim Sams)
+
+ * chore: update dependency eslint to ^8.43.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.3.2 (renovate[bot])
+
+
+2023-06-13, Version 4.28.6
+==========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.42.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.6.5 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.41.0 (renovate[bot])
+
+ * chore: update dependency qs to ^6.11.2 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.3.1 (renovate[bot])
+
+
+2023-05-15, Version 4.28.5
+==========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.40.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.6.3 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.39.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.6.1 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.3.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.6.0 (renovate[bot])
+
+
+2023-04-13, Version 4.28.4
+==========================
+
+ * chore: update dependency eslint to ^8.38.0 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.37.0 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^17.5.1 (renovate[bot])
+
+ * chore: update dependency nanoid to ^3.3.6 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^17.5.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.36.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.35.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.2.2 (renovate[bot])
+
+ * chore: update dependency qs to ^6.11.1 (renovate[bot])
+
+
+2023-03-08, Version 4.28.3
+==========================
+
+ * fix: isolate context for each createAll call (akshatdubeysf)
+
+ * chore: update dependency uuid to v9 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.4.4 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.4.3 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.34.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^4.9.5 (renovate[bot])
+
+
+2023-01-30, Version 4.28.2
+==========================
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.33.0 (renovate[bot])
+
+ * fix: return correct model instance in createAll (Samarpan  Bhattacharya)
+
+ * chore: update dependency minimatch to ^5.1.6 (renovate[bot])
+
+ * chore: update dependency minimatch to ^5.1.4 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.32.0 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.4.2 (renovate[bot])
+
+ * chore: update dependency bson to ^4.7.2 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.2.1 (renovate[bot])
+
+
+2023-01-09, Version 4.28.1
+==========================
+
+ * chore: update dependency @commitlint/cli to ^17.4.1 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency bson to ^4.7.1 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.4.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.31.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.2.0 (renovate[bot])
+
+ * chore: update dependency minimatch to ^5.1.2 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.30.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^4.9.4 (renovate[bot])
+
+ * chore: update dependency typescript to ^4.9.3 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.3.0 (renovate[bot])
+
+ * chore: update dependency minimatch to ^5.1.1 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.29.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.27.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.1.1 (renovate[bot])
+
+
+2022-11-07, Version 4.28.0
+==========================
+
+ * chore: update github/codeql-action action to v2 (Renovate Bot)
+
+ * fix: add missing property in model generated (Muhammad Aaqil)
+
+ * feat: add capability for insert multiple rows in single query (Samarpan Bhattacharya)
+
+ * chore: update commitlint monorepo to ^17.2.0 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency eslint to ^8.26.0 (renovate[bot])
+
+ * chore: update dependency traverse to ^0.6.7 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.25.0 (renovate[bot])
+
+ * chore: update dependency loopback-connector to ^5.1.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^4.8.4 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.24.0 (renovate[bot])
+
+ * chore: update dependency inflection to ^1.13.4 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.23.1 (renovate[bot])
+
+ * chore: update dependency typescript to ^4.8.3 (renovate[bot])
+
+ * chore: update dependency @commitlint/cli to ^17.1.2 (renovate[bot])
+
+ * chore: update commitlint monorepo (renovate[bot])
+
+ * chore: update dependency eslint to ^8.23.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^4.8.2 (renovate[bot])
+
+ * fix: missing serialisation for `Connector.update` (Rifa Achrinza)
+
+ * chore: update dependency bson to ^4.7.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.22.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.21.0 (renovate[bot])
+
+ * chore: update dependency eslint-plugin-mocha to ^10.1.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.20.0 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.19.0 (renovate[bot])
+
+ * chore: update dependency bson to ^4.6.5 (renovate[bot])
+
+ * chore: update dependency eslint to ^8.18.0 (renovate[bot])
+
+ * chore: update dependency typescript to ^4.7.4 (renovate[bot])
+
+ * chore: update dependency qs to ^6.10.5 (renovate[bot])
+
+ * chore: update dependency async to ^3.2.4 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^17.0.3 (renovate[bot])
+
+ * chore: update lint packages (Renovate Bot)
+
+ * chore: update dependency typescript to ^4.7.2 (Renovate Bot)
+
+ * chore: update commitlint monorepo to v17 (Renovate Bot)
+
+ * chore: update dependency minimatch to ^5.1.0 (Renovate Bot)
+
+ * chore: update dependency nanoid to ^3.3.4 (Renovate Bot)
+
+ * chore: lock file maintenance (Renovate Bot)
+
+ * chore: update dependency bson to ^4.6.4 (Renovate Bot)
+
+ * chore: update commitlint monorepo (Renovate Bot)
+
+ * chore: update dependency bson to ^4.6.3 (Renovate Bot)
+
+ * chore: update dependency nanoid to ^3.3.3 (Renovate Bot)
+
+ * chore: update dependency minimatch to v5 (Renovate Bot)
+
+ * chore: update dependency typescript to ^4.6.3 (Renovate Bot)
+
+ * chore: update dependency nanoid to 3.1.31 [security] (Renovate Bot)
+
+ * chore: update dependency nanoid to ^3.3.2 (Renovate Bot)
+
+ * chore: update actions/setup-node action to v3 (Renovate Bot)
+
+ * chore: update actions/checkout action to v3 (Renovate Bot)
+
+ * chore: update dependency minimatch to ^3.1.2 (Renovate Bot)
+
+ * chore: update dependency bson to ^4.6.2 (Renovate Bot)
+
+ * chore: update dependency qs to ^6.10.3 (Renovate Bot)
+
+ * chore: update dependency loopback-connector to ^5.0.1 (Renovate Bot)
+
+ * docs: add SECURITY.md (Diana Lau)
+
+ * chore: update dependency uuid to ^8.3.2 (Renovate Bot)
+
+ * chore: update dependency lodash to ^4.17.21 (Renovate Bot)
+
+ * chore: update dependency inflection to ^1.13.2 (Renovate Bot)
+
+ * chore: update dependency debug to ^4.3.4 (Renovate Bot)
+
+ * chore: update dependency change-case to ^4.1.2 (Renovate Bot)
+
+ * chore: update dependency async to ^3.2.3 (Renovate Bot)
+
+ * ci: use shared renovate config (Rifa Achrinza)
+
+ * ci: add renovate config (Rifa Achrinza)
+
+ * docs: update coc (Diana Lau)
+
+ * docs: add code of conduct (Diana Lau)
+
+
+2022-02-22, Version 4.27.1
+==========================
+
+ * fix: remove `geo.d.ts` (Rifa Achrinza)
+
+
+2022-02-19, Version 4.27.0
+==========================
+
+ * ci: enable Node.js v17 testing (Rifa Achrinza)
+
+ * feat: add built-in model property types typdef (Rifa Achrinza)
+
+ * chore: replace shortid with nanoid (Mario Estrada)
+
+ * ci: restrict GITHUB_TOKEN permissions (Rifa Achrinza)
+
+ * ci: update pipelines (Rifa Achrinza)
+
+ * chore: update 3.x LTS to End-of-Life (#1888) (Rifa Achrinza)
+
+ * chore: sync v4 EOL withh Node.js v14 EOL (#1876) (Rifa Achrinza)
+
+
 2020-11-02, Version 4.26.0
 ==========================
 
